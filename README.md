@@ -3,7 +3,7 @@
 I am a DevOps Engineer currently working at Align Technology👨‍💻. I am interested in making life easier by automating processes. I'm fascinated by aviation and tennis.
 
 - ⚙️ I use daily: `.groovy`, `.js`, `.html`, `.css`, `.tf`, `.json`,`.pkr.hcl`
-- 💬 `ping` me about **design**, **orchestration**, **automation**, **ci/cd**
+- 💬 `ping` me about **Orchestration**, **automation**, **ci/cd**, **Cloud Architecture**, 
 
 I have honed my skills in a variety of tools and technologies, including:
 
@@ -22,6 +22,13 @@ I have honed my skills in a variety of tools and technologies, including:
     - [Vuetify dashboard](https://github.com/brenneran/Projects/tree/main/Vuetify) app for component versioning.
     - Some personal [Python development projects](https://github.com/brenneran/Projects/tree/main/Python)
 
+### 📚 Learning
+  - Python scripting.
+  - Kubernetes - Helm.
+  - Mastering Groovy for pipelines.
+  - Cloudflare workers
+
 Thank you for visiting my portfolio. I hope you find my projects informative and inspiring. Feel free to explore and reach out if you have any questions or collaboration ideas in mind.
+✍️ Follow me on [Medium](https://medium.com/@brenneran) for more written content.
 
 ![](https://komarev.com/ghpvc/?username=brenneran&color=lightgrey&style=flat&label=Profile+Views&base=120)
