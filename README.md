@@ -5,7 +5,7 @@ I am a DevOps Engineer and have experience in working in Align Technology👨‍
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 - 💬 `ping` me about **design**, **orchestration**, **automation**, **ci/cd**
 
-I am an experienced DevOps Engineer with a strong passion for cloud infrastructure, automation, and CI/CD. Over the years, I have honed my skills in a variety of tools and technologies including:
+Over the years, I have honed my skills in a variety of tools and technologies including:
 
 - **Version Control**: Git
 - **CI/CD**: Jenkins
@@ -26,18 +26,4 @@ With a strong desire to continually learn and develop my skills, I am deeply pas
 
 Thank you for visiting my portfolio. I hope you find my projects informative and inspiring. Feel free to explore and reach out if you have any questions or collaborations in mind.
 
-Best,
-Andrey
-
-
-### Hello there 👋
-
-#### A DevOps engineer by day ☼ and a Laravel Community Contributor by night ☾
-
-DevOps engineer at [AlignTech](https://medicare.pt?ref=github-caneco);<br>
-Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
-
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm mostly active within the **Laravel Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
-- 💬 `ping` me about **design**, **branding**, **laravel*
+![](https://komarev.com/ghpvc/?username=brenneran&color=lightgrey&style=flat&label=Profile+Vievs)
