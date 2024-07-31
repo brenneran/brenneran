@@ -23,8 +23,8 @@ I have honed my skills in a variety of tools and technologies, including:
     - Some personal [Python development projects](https://github.com/brenneran/Projects/tree/main/Python)
 
 ### 📚 Learning
-  - Python scripting.
-  - Kubernetes - Helm.
+  - Ongoing learning Python.
+  - Sharpening Kubernetes - Helm.
   - Mastering Groovy for pipelines.
   - Cloudflare workers
 
