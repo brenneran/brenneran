@@ -26,7 +26,6 @@ I have honed my skills in a variety of tools and technologies, including:
   - Ongoing learning Python.
   - Sharpening Kubernetes - Helm.
   - Mastering Groovy for pipelines.
-  - Cloudflare workers
 
 Thank you for visiting my portfolio. I hope you find my projects informative and inspiring. Feel free to explore and reach out if you have any questions or collaboration ideas in mind.
 ✍️ Follow me on [Medium](https://medium.com/@brenneran) for more written content.
