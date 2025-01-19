@@ -21,6 +21,7 @@ I have honed my skills in a variety of tools and technologies, including:
     - [Jenkins Pipelines and scripts](https://github.com/brenneran/Projects/tree/main/Jenkins).
     - [Vuetify dashboard](https://github.com/brenneran/Projects/tree/main/Vuetify) app for component versioning.
     - Some personal [Python development projects](https://github.com/brenneran/Projects/tree/main/Python)
+    - Android app building [with GitHub Action and Telegram Bot publishing](https://github.com/brenneran/android-app)
 
 ### 📚 Learning
   - Ongoing learning Python.
